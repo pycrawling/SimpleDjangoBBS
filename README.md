@@ -1,0 +1,2 @@
+# SimpleDjangoBBS
+  for learning django
