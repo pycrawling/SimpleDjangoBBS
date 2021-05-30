@@ -1,3 +1,3 @@
 # SimpleDjangoBBS
-  for learning django
+  for learning django,    
   using only generic views
